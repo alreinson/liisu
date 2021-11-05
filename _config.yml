@@ -1,0 +1,4 @@
+title_tag_text: Hello, I&rsquo;m Anna-Liisa
+h1_tag_text: Hello, I&rsquo;m Anna-Liisa
+
+exclude: ["README.md", "CNAME"]
