@@ -3,7 +3,7 @@
 
 html {
   font: 30px/1.5 Cherish, cursive;
-  background-color: #415246;
+  background-color: #a6e5de;
 }
 
 @media (min-width: 30rem) {
@@ -155,7 +155,7 @@ pre > code {
 
 @media (min-width: 45rem) {
   html {
-    background-color: #415246;
+    background-color: #a6e5de;
   }
 }
 
